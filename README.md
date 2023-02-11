@@ -17,7 +17,7 @@ More specifically, this information should be stored as follows.
 The road network is represented as a NetworkX graph. One of the edge attributes, specifically, represents information about previous drivings. 
 
 | Edge                | Velocity observations|
-| :------------------ |-------:|--------:|------:|------:|
+| :------------------ |-------:|
 | (a, b, 0) |(2020-02-17 12:43:30,13.27), (2020-02-17 12:44:00,13.07)|
 | (c, d, 1) |(2020-02-17 12:43:30,13.27)|
 | (b, d, 0) |(2020-02-17 12:43:30,13.27), (2020-02-17 12:43:30,13.27), ...|
