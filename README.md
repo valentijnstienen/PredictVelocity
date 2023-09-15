@@ -1,5 +1,5 @@
 # PemPem-paper 2
-Supplements to the paper "Road speed prediction in developing regions based on data-scarce GPS trajectory data, weather, and satellite information".
+Supplements to the paper "Better routing in developing regions: weather and satellite-informed road speed prediction".
 
 [comment]: <> (Include authors)
 
