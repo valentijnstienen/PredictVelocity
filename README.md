@@ -53,8 +53,8 @@ $ conda create --name ENV_NAME --file requirements.txt
 ```
 
 ## Running the algorithm
-Before running the algorithm, you need to define the settings of the algorithm ([SETTINGS.py](https://github.com/valentijnstienen/PemPem-paper/tree/main/SETTINGS.py)). After filling in these settings, you can run the algorithm by executing the following commands:
+Before running the algorithm, you need to define the settings of the algorithm ([SETTINGS.py](https://github.com/valentijnstienen/PredictVelocity/blob/main/SETTINGS.py)). After filling in these settings, you can run the algorithm by executing the following commands:
 
 ```
-$ python mainRun.py
+$ python MAIN.py
 ```
