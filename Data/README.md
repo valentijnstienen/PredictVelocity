@@ -12,10 +12,10 @@ Next, we also create a dataframe with all the relevant satellite images. For eac
 <img src="readmefigures/representative_points_satellite_image.png" width="800">
 
 To do all this, run the files in the following order: 
-* createInputData.py (first part)
-* createWeatherDB.py
-* createSatelliteDB.py
-* createInputData.py (second part)
+* [createInputData.py]([https://github.com/valentijnstienen/PredictVelocity/blob/main/Data/createInputData.py]) (first part)
+* [createWeatherDB.py]([https://github.com/valentijnstienen/PredictVelocity/blob/main/Data/createWeatherDB.py])
+* [createSatelliteDB.py]([https://github.com/valentijnstienen/PredictVelocity/blob/main/Data/createSatelliteDB.py])
+* [createInputData.py]([https://github.com/valentijnstienen/PredictVelocity/blob/main/Data/createInputData.py]) (second part)
 
 Note that you can specify various options within each file. 
 
