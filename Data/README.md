@@ -11,6 +11,12 @@ Next, we also create a dataframe with all the relevant satellite images. For eac
 
 <img src="readmefigures/representative_points_satellite_image.png" width="800">
 
+To do all this, run the files in the following order: 
+* createInputData.py (first part)
+* createWeatherDB.py
+* createSatelliteDB.py
+* createInputData.py (second part)
 
+Note that you can specify various options within each file. 
 
 
